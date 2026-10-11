@@ -1,49 +1,32 @@
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=54A6D8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Asmaa+%F0%9F%91%8B;Junior+Flutter+Developer;Building+Mobile+Applications+with+Flutter" alt="Typing SVG" />
-</p>
+# Hi, I'm Asmaa Zakarya 👋
 
-<h3 align="center">Junior Flutter Developer | Mobile Application Development</h3>
+### Junior Flutter Developer 📱
 
-<p align="center">
-  I'm Asmaa, a Computer Science graduate passionate about building modern and user-friendly mobile applications using Flutter and Dart.
-</p>
+I'm a Computer Science graduate interested in building mobile applications using Flutter and Dart. I'm always learning and improving my skills to create simple and user-friendly applications.
 
 ---
 
-### 👩‍💻 About Me
+## 🛠️ Tech Stack
 
-- 📱 I'm focused on Flutter mobile application development.
-- 🌱 I'm continuously learning and improving my development skills.
-- 🎨 I enjoy turning UI designs into Flutter screens.
-- 🔥 I have experience working with Firebase.
-- 💡 I enjoy solving problems and building practical projects.
+### 📱 Mobile Development
+Flutter · Dart · Firebase
 
-### 🛠️ Skills & Tools
+### 🧠 State Management
+Provider · BLoC
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+### 🏗️ Architecture & Principles
+Clean Architecture · MVVM · SOLID
 
-### 📱 My Projects
+### 🌐 Backend & Data
+REST API · Dio · Firestore · SQLite · Hive
 
-- **Hotel App** — A Flutter UI project for displaying available hotels.
-- **Pharmacy App** — A pharmacy management application developed using Flutter and Firebase.
-- **Chat App** — A mobile chat application built with Flutter and Firebase.
-- **Evently App** — An event application with a clean and user-friendly interface.
+### ⚙️ Tools & Workflow
+Git · GitHub · VS Code · Android Studio · Figma
 
-### 📫 Connect with Me
+---
 
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🌱 Currently Learning
+
+- Improving my Flutter development skills
+- Building responsive and user-friendly UI designs
+- Learning more about clean code and application architecture
